@@ -6,3 +6,4 @@ i belive i can do anything.
 china
 it change file;
 Git has a mutable index called stage.
+git file is changed.
