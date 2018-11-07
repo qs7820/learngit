@@ -7,3 +7,4 @@ china
 it change file;
 Git has a mutable index called stage.
 git file are changed.
+my stupid boss still prefers SVN,
